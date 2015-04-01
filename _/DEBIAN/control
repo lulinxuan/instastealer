@@ -1,0 +1,10 @@
+Package: com.lulinxuan.InstaStealer
+Name: InstaStealer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Double tap to save instal photos and videos.
+Maintainer: lulinxuan
+Author: lulinxuan
+Section: Tweaks
+Version: 0.0.1-3
+Installed-Size: 20
